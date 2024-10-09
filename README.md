@@ -1,11 +1,11 @@
 
 Hello, I'm Tito Shreyansh Bandari 👋 
 -----------------------
-I'm a passionate developer studying at Walnut Grove High School. I have a strong interest in machine learning, natural language processing, and large language models, and I’m also enthusiastic about cybersecurity. I strive to leverage these technologies to create impactful software solutions.
+I'm a passionate developer having who has an strong interest in machine learning, natural language processing,  large language models, and I’m also enthusiastic about cybersecurity. I strive to leverage these technologies to create impactful software solutions.
 
 Projects
 -------------
-Artificial Intelligence Powered Personal Assistant 
+Artificial Intelligence  Personal Assistant 
 
 Created an AI personal assistant that can manage schedules, set reminders, send messages, and perform other tasks using voice commands.
 Technologies: Python, TensorFlow, NLTK, spaCy, speech recognition libraries, and Flask.
