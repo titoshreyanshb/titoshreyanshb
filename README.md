@@ -1,7 +1,7 @@
 
-Hello, I'm Tito Shreyansh Bandari 👋 
+Hello, I'm Tito Shreyansh Bandari 
 -----------------------
-I'm a passionate developer who has an strong interest in machine learning, natural language processing,  large language models, and I’m also enthusiastic about cybersecurity. I strive to leverage these technologies to create impactful software solutions.
+I'm a passionate developer who has an strong interest in Machine Learning and LLM's. I strive to leverage these technologies to create impactful software solutions through my developments.
 
 Projects
 -------------
